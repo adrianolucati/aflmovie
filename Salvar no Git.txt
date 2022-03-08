@@ -1,0 +1,21 @@
+## Passo: salvar primeira versão no Github
+
+git init
+
+git add .
+
+git commit -m "Projeto criado"
+
+git branch -M main
+
+git remote add origin git@github.com:adrianolucati/semana-sprint-react.git
+
+git push -u origin main
+
+## Passo: para atualizar versão
+
+git add .
+
+git commit -m "Projeto atualizado
+
+git push
